@@ -28,3 +28,12 @@ Este projeto foi desenvolvido como atividade prática da disciplina de **Engenha
 | 📄 Listar produtos | Exibe todos os itens cadastrados |
 | 🔍 Buscar por ID | Localiza produtos rapidamente |
 | 🚪 Sair | Encerra o programa |
+
+Product Owner (PO):
+Nome: João Alexandre Santos Gerônimo
+
+Scrum Master:
+Nome: Matheus Roberto Ramos Barbosa
+
+Dev Team:
+Nome: Rafael Martins Santos Vernaschi
